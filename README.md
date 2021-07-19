@@ -1,1 +1,2 @@
-# Fries
+Yanina Sheremeta 
+Project: "Fries"
